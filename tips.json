@@ -1,0 +1,28 @@
+{
+  "tipsByLanguage": {
+    "en": [
+      {
+        "title": "Tip Title in English",
+        "description": "Tip Description in English",
+        "imageUrl": "http://example.com/image_en.jpg"
+      },
+      {
+        "title": "Tip Title in English2",
+        "description": "Tip Description in English",
+        "imageUrl": "http://example.com/image_en.jpg"
+      }
+    ],
+    "ru": [
+      {
+        "title": "Заголовок совета на русском",
+        "description": "Описание совета на русском",
+        "imageUrl": "http://example.com/image_ru.jpg"
+      },
+      {
+        "title": "Заголовок совета на русском",
+        "description": "Описание совета на русском",
+        "imageUrl": "http://example.com/image_ru.jpg"
+      }
+    ]
+  }
+}
