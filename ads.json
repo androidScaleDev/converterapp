@@ -1,0 +1,13 @@
+{
+  "showAds": true,
+  "afterSplashInter": false,
+  "mainBanner": true,
+  "mainInter": true,
+  "countDownInter": false,
+  "countDownNumClick": 3,
+  "countDownBanner": true,
+  "listBanner": true,
+  "singleRecipeBanner": true,
+  "addRecipeBanner": true,
+  "numSaveInter": 3
+}
