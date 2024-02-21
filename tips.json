@@ -4,24 +4,24 @@
       {
         "title": "Tip Title in English",
         "description": "Tip Description in English",
-        "imageUrl": "http://example.com/image_en.jpg"
+        "imageUrl": "t1.jpg"
       },
       {
         "title": "Tip Title in English2",
         "description": "Tip Description in English",
-        "imageUrl": "http://example.com/image_en.jpg"
+        "imageUrl": "t2.jpg"
       }
     ],
     "ru": [
       {
         "title": "Заголовок совета на русском",
         "description": "Описание совета на русском",
-        "imageUrl": "http://example.com/image_ru.jpg"
+        "imageUrl": "t3.jpg"
       },
       {
         "title": "Заголовок совета на русском",
         "description": "Описание совета на русском",
-        "imageUrl": "http://example.com/image_ru.jpg"
+        "imageUrl": "t4.jpg"
       }
     ]
   }
