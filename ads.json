@@ -1,6 +1,9 @@
 {
   "showAds": true,
   "afterSplashInter": false,
+"convBannerID": "ca-app-pub-3940256099942544/6300978111",
+"convBanner": true,
+"is_convBanner_rectangle": true,
   "mainBanner": true,
   "mainInter": true,
   "countDownInter": false,
