@@ -9,7 +9,7 @@
 "is_convBanner_rectangle": true,
   "mainBanner": true,
   "mainInter": true,
-  "countDownInter": false,
+  "countDownInter": true,
   "countDownNumClick": 3,
   "countDownBanner": true,
   "listBanner": true,
