@@ -1,6 +1,6 @@
 {
   "showAds": true,
-  "afterSplashInter": false,
+  "returnAD": true,
 "convBannerID": "ca-app-pub-3940256099942544/6300978111",
 "convBanner": true,
   "convInter":true,
