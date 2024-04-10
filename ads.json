@@ -1,10 +1,11 @@
 {
   "showAds": true,
-  
+ "listTipBanner": true,
+"is_listTipBanner_rectangle": true,
   "returnAD": true,
 "mainBanner": true,
   "singleTipBanner": true,
-   "is_singleTipBanner_rectangle": true,
+   "is_singleTipBanner_rectangle": false,
 "convBanner": true,
   "convInter":true,
 "convNumClick":3,
