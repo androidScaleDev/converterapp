@@ -3,6 +3,8 @@
   
   "returnAD": true,
 "mainBanner": true,
+  "singleTipBanner": true,
+   "is_singleTipBanner_rectangle": true,
 "convBanner": true,
   "convInter":true,
 "convNumClick":3,
