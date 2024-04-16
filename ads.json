@@ -1,23 +1,21 @@
 {
-  "showAds": true,
- "listTipBanner": true,
-"is_listTipBanner_rectangle": true,
-  "returnAD": true,
-"mainBanner": true,
-  "singleTipBanner": true,
-   "is_singleTipBanner_rectangle": false,
-"convBanner": true,
-  "convInter":true,
-"convNumClick":3,
-"convInterID":"ca-app-pub-3940256099942544/1033173712",
-"is_convBanner_rectangle": true,
-  "mainBanner": true,
-  "mainInter": true,
-  "countDownInter": true,
-  "countDownNumClick": 3,
-  "countDownBanner": true,
-  "listBanner": true,
-  "singleRecipeBanner": true,
-  "addRecipeBanner": true,
-  "numSaveInter": 3
+    "showAds": true,
+    "returnAD": true,
+    "mainBanner": true,
+    "mainInter": true,
+    "singleTipBanner": true,
+    "singleTipInter": true,
+    "is_singleTipBanner_rectangle": true,
+    "listTipBanner": true,
+    "is_listTipBanner_rectangle": true,
+    "convBanner": true,
+    "is_convBanner_rectangle": true,
+    "convInter_alert": true,
+    "convInter": true,
+
+    "convNumClick": 3, // Example value, adjust as needed
+    "countDownInter_alert": true,
+    "countDownInter": true,
+    "countDownNumClick": 3, // Example value, adjust as needed
+    "countDownBanner": true
 }
