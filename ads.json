@@ -1,6 +1,6 @@
 {
     "showAds": true,
-    "Iinterval": 10,
+    "interval": 10,
     "returnAD": true,
     "mainBanner": true,
     "mainInter": true,
