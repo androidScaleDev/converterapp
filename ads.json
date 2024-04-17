@@ -2,14 +2,14 @@
     "showAds": true,
     "interval": 3,
     "returnAD": true,
-    "mainBanner": true,
+    "mainBanner": false,
     "mainInter": true,
-    "singleTipBanner": true,
+    "singleTipBanner": false,
     "singleTipInter": true,
     "is_singleTipBanner_rectangle": false,
-    "listTipBanner": true,
+    "listTipBanner": false,
     "is_listTipBanner_rectangle": false,
-    "convBanner": true,
+    "convBanner": false,
     "is_convBanner_rectangle": false,
     "convInter_alert": true,
     "convInter": true,
@@ -18,5 +18,5 @@
     "countDownInter_alert": true,
     "countDownInter": true,
     "countDownNumClick": 3, 
-    "countDownBanner": true
+    "countDownBanner": false
 }
