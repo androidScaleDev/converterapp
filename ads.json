@@ -1,6 +1,6 @@
 {
-    "showAds": true,
-    "interval": 3,
+    "showAds": false,
+    "interval": 300,
     "returnAD": true,
     "mainBanner": false,
     "mainInter": true,
